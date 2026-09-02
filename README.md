@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/neteclogo (2).png" alt="Logo de Netec" width="300">
+</p>
+
 # COPILOT EN CALIDAD Y MEJORA CONTINUA
 
 Este seminario está diseñado para transformar la gestión de los sistemas de calidad y los procesos de mejora continua mediante el uso de IA. El programa abarca desde la redacción automatizada de reportes de no conformidad y análisis predictivos en Excel, hasta la resolución avanzada de problemas con metodologías Lean/Kaizen y la preparación estructurada para auditorías e inspecciones corporativas.
@@ -55,6 +59,21 @@ Este seminario está diseñado para transformar la gestión de los sistemas de c
 - [Práctica: Desarrollo de una matriz de control de riesgos y guía de uso responsable para el uso corporativo de Copilot.](Capitulo08/README.md#práctica-desarrollo-de-una-matriz-de-control-de-riesgos-y-guía-de-uso-responsable-para-el-uso-corporativo-de-copilot)
   - Descripción: Desarrollo de una matriz de control de riesgos y una guía de uso responsable para el uso corporativo de Copilot, integrando la validación humana de resultados, la mitigación de alucinaciones o errores de la IA y las políticas de manejo seguro de información sensible.
   - Duración estimada: 30 min
+ 
+  - 
+## 📬 **Contacto y más información**
+
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+
+---
+
+
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
 
 ## Flujo de colaboración
 
